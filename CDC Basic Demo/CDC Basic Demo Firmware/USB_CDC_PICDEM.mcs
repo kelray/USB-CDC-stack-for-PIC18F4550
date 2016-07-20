@@ -1,0 +1,162 @@
+[Header]
+MagicCookie={0b13fe8c-dfe0-40eb-8900-6712719559a7}
+Version=1.0
+[File000]
+Location=C:\USB_CDC_Device_project\CDC Basic Demo\CDC Basic Demo Firmware\main.o
+Folder=Intermediary
+DeviceName=PIC18F4550
+LanguageToolSuiteID={5B7D72DD-9861-47BD-9F60-2BE967BF8416}
+LanguageToolID={E56A1C86-9D32-4DF6-8C34-FE0388B1B644}
+LanguageToolLocation=C:\MCC18\bin\mcc18.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)||$(INCDIR)|..\..\C:\USB_CDC_Device_project\CDC Basic Demo\CDC Basic Demo Firmware;..\..\microchip\include;C:\MCC18\h||$(LIBDIR)|C:\MCC18\lib||$(LKRDIR)||
+SOLK=<src>|main.c|usb_descriptors.c|C:\USB_CDC_Device_project\Microchip\USB\usb_device.c|C:\USB_CDC_Device_project\Microchip\USB\CDC Device Driver\usb_function_cdc.c||<obj>||<lib>||<lkr>|rm18f4550 - HID Bootload.lkr||
+SuiteArgsString=
+ToolArgsString=-Ou- -Ot- -Ob- -Op- -Or- -Od- -Opa-
+TraceCmdString=
+DebugOptions=-D__DEBUG
+[File001]
+Location=C:\USB_CDC_Device_project\CDC Basic Demo\CDC Basic Demo Firmware\usb_descriptors.o
+Folder=Intermediary
+DeviceName=PIC18F4550
+LanguageToolSuiteID={5B7D72DD-9861-47BD-9F60-2BE967BF8416}
+LanguageToolID={E56A1C86-9D32-4DF6-8C34-FE0388B1B644}
+LanguageToolLocation=C:\MCC18\bin\mcc18.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)||$(INCDIR)|..\..\C:\USB_CDC_Device_project\CDC Basic Demo\CDC Basic Demo Firmware;..\..\microchip\include;C:\MCC18\h||$(LIBDIR)|C:\MCC18\lib||$(LKRDIR)||
+SOLK=<src>|main.c|usb_descriptors.c|C:\USB_CDC_Device_project\Microchip\USB\usb_device.c|C:\USB_CDC_Device_project\Microchip\USB\CDC Device Driver\usb_function_cdc.c||<obj>||<lib>||<lkr>|rm18f4550 - HID Bootload.lkr||
+SuiteArgsString=
+ToolArgsString=-Ou- -Ot- -Ob- -Op- -Or- -Od- -Opa-
+TraceCmdString=
+DebugOptions=-D__DEBUG
+[File002]
+Location=C:\USB_CDC_Device_project\CDC Basic Demo\CDC Basic Demo Firmware\usb_device.o
+Folder=Intermediary
+DeviceName=PIC18F4550
+LanguageToolSuiteID={5B7D72DD-9861-47BD-9F60-2BE967BF8416}
+LanguageToolID={E56A1C86-9D32-4DF6-8C34-FE0388B1B644}
+LanguageToolLocation=C:\MCC18\bin\mcc18.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)||$(INCDIR)|..\..\C:\USB_CDC_Device_project\CDC Basic Demo\CDC Basic Demo Firmware;..\..\microchip\include;C:\MCC18\h||$(LIBDIR)|C:\MCC18\lib||$(LKRDIR)||
+SOLK=<src>|main.c|usb_descriptors.c|C:\USB_CDC_Device_project\Microchip\USB\usb_device.c|C:\USB_CDC_Device_project\Microchip\USB\CDC Device Driver\usb_function_cdc.c||<obj>||<lib>||<lkr>|rm18f4550 - HID Bootload.lkr||
+SuiteArgsString=
+ToolArgsString=-Ou- -Ot- -Ob- -Op- -Or- -Od- -Opa-
+TraceCmdString=
+DebugOptions=-D__DEBUG
+[File003]
+Location=C:\USB_CDC_Device_project\CDC Basic Demo\CDC Basic Demo Firmware\usb_function_cdc.o
+Folder=Intermediary
+DeviceName=PIC18F4550
+LanguageToolSuiteID={5B7D72DD-9861-47BD-9F60-2BE967BF8416}
+LanguageToolID={E56A1C86-9D32-4DF6-8C34-FE0388B1B644}
+LanguageToolLocation=C:\MCC18\bin\mcc18.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)||$(INCDIR)|..\..\C:\USB_CDC_Device_project\CDC Basic Demo\CDC Basic Demo Firmware;..\..\microchip\include;C:\MCC18\h||$(LIBDIR)|C:\MCC18\lib||$(LKRDIR)||
+SOLK=<src>|main.c|usb_descriptors.c|C:\USB_CDC_Device_project\Microchip\USB\usb_device.c|C:\USB_CDC_Device_project\Microchip\USB\CDC Device Driver\usb_function_cdc.c||<obj>||<lib>||<lkr>|rm18f4550 - HID Bootload.lkr||
+SuiteArgsString=
+ToolArgsString=-Ou- -Ot- -Ob- -Op- -Or- -Od- -Opa-
+TraceCmdString=
+DebugOptions=-D__DEBUG
+[File004]
+Location=E:\USB_CDC_Device_project\CDC Basic Demo\CDC Basic Demo Firmware\main.o
+Folder=Intermediary
+DeviceName=PIC18F4550
+LanguageToolSuiteID={5B7D72DD-9861-47BD-9F60-2BE967BF8416}
+LanguageToolID={E56A1C86-9D32-4DF6-8C34-FE0388B1B644}
+LanguageToolLocation=C:\MCC18\bin\mcc18.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)||$(INCDIR)|..\..\C:\USB_CDC_Device_project\CDC Basic Demo\CDC Basic Demo Firmware;..\..\microchip\include;C:\MCC18\h||$(LIBDIR)|C:\MCC18\lib||$(LKRDIR)||
+SOLK=<src>|main.c|usb_descriptors.c|C:\USB_CDC_Device_project\Microchip\USB\usb_device.c|C:\USB_CDC_Device_project\Microchip\USB\CDC Device Driver\usb_function_cdc.c||<obj>||<lib>||<lkr>|rm18f4550 - HID Bootload.lkr||
+SuiteArgsString=
+ToolArgsString=-Ou- -Ot- -Ob- -Op- -Or- -Od- -Opa-
+TraceCmdString=
+DebugOptions=-D__DEBUG
+[File005]
+Location=E:\USB_CDC_Device_project\CDC Basic Demo\CDC Basic Demo Firmware\usb_descriptors.o
+Folder=Intermediary
+DeviceName=PIC18F4550
+LanguageToolSuiteID={5B7D72DD-9861-47BD-9F60-2BE967BF8416}
+LanguageToolID={E56A1C86-9D32-4DF6-8C34-FE0388B1B644}
+LanguageToolLocation=C:\MCC18\bin\mcc18.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)||$(INCDIR)|..\..\C:\USB_CDC_Device_project\CDC Basic Demo\CDC Basic Demo Firmware;..\..\microchip\include;C:\MCC18\h||$(LIBDIR)|C:\MCC18\lib||$(LKRDIR)||
+SOLK=<src>|main.c|usb_descriptors.c|C:\USB_CDC_Device_project\Microchip\USB\usb_device.c|C:\USB_CDC_Device_project\Microchip\USB\CDC Device Driver\usb_function_cdc.c||<obj>||<lib>||<lkr>|rm18f4550 - HID Bootload.lkr||
+SuiteArgsString=
+ToolArgsString=-Ou- -Ot- -Ob- -Op- -Or- -Od- -Opa-
+TraceCmdString=
+DebugOptions=-D__DEBUG
+[File006]
+Location=E:\USB_CDC_Device_project\CDC Basic Demo\CDC Basic Demo Firmware\usb_device.o
+Folder=Intermediary
+DeviceName=PIC18F4550
+LanguageToolSuiteID={5B7D72DD-9861-47BD-9F60-2BE967BF8416}
+LanguageToolID={E56A1C86-9D32-4DF6-8C34-FE0388B1B644}
+LanguageToolLocation=C:\MCC18\bin\mcc18.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)||$(INCDIR)|..\..\C:\USB_CDC_Device_project\CDC Basic Demo\CDC Basic Demo Firmware;..\..\microchip\include;C:\MCC18\h||$(LIBDIR)|C:\MCC18\lib||$(LKRDIR)||
+SOLK=<src>|main.c|usb_descriptors.c|C:\USB_CDC_Device_project\Microchip\USB\usb_device.c|C:\USB_CDC_Device_project\Microchip\USB\CDC Device Driver\usb_function_cdc.c||<obj>||<lib>||<lkr>|rm18f4550 - HID Bootload.lkr||
+SuiteArgsString=
+ToolArgsString=-Ou- -Ot- -Ob- -Op- -Or- -Od- -Opa-
+TraceCmdString=
+DebugOptions=-D__DEBUG
+[File007]
+Location=E:\USB_CDC_Device_project\CDC Basic Demo\CDC Basic Demo Firmware\usb_function_cdc.o
+Folder=Intermediary
+DeviceName=PIC18F4550
+LanguageToolSuiteID={5B7D72DD-9861-47BD-9F60-2BE967BF8416}
+LanguageToolID={E56A1C86-9D32-4DF6-8C34-FE0388B1B644}
+LanguageToolLocation=C:\MCC18\bin\mcc18.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)||$(INCDIR)|..\..\C:\USB_CDC_Device_project\CDC Basic Demo\CDC Basic Demo Firmware;..\..\microchip\include;C:\MCC18\h||$(LIBDIR)|C:\MCC18\lib||$(LKRDIR)||
+SOLK=<src>|main.c|usb_descriptors.c|C:\USB_CDC_Device_project\Microchip\USB\usb_device.c|C:\USB_CDC_Device_project\Microchip\USB\CDC Device Driver\usb_function_cdc.c||<obj>||<lib>||<lkr>|rm18f4550 - HID Bootload.lkr||
+SuiteArgsString=
+ToolArgsString=-Ou- -Ot- -Ob- -Op- -Or- -Od- -Opa-
+TraceCmdString=
+DebugOptions=-D__DEBUG
+[File008]
+Location=C:\USB_CDC_Device_project\CDC Basic Demo\CDC Basic Demo Firmware\USB_CDC_PICDEM.cof
+Folder=Output
+DeviceName=PIC18F4550
+LanguageToolSuiteID={5B7D72DD-9861-47BD-9F60-2BE967BF8416}
+LanguageToolID={96C98149-AA1B-4CF9-B967-FAE79CAB663C}
+LanguageToolLocation=C:\MCC18\bin\mplink.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)||$(INCDIR)|..\..\C:\USB_CDC_Device_project\CDC Basic Demo\CDC Basic Demo Firmware;..\..\microchip\include;C:\MCC18\h||$(LIBDIR)|C:\MCC18\lib||$(LKRDIR)||
+SOLK=<src>|main.c|usb_descriptors.c|C:\USB_CDC_Device_project\Microchip\USB\usb_device.c|C:\USB_CDC_Device_project\Microchip\USB\CDC Device Driver\usb_function_cdc.c||<obj>||<lib>||<lkr>|rm18f4550 - HID Bootload.lkr||
+SuiteArgsString=
+ToolArgsString=/o"$(BINDIR_)$(TARGETBASE).cof" /M"$(BINDIR_)$(TARGETBASE).map" /W
+TraceCmdString=
+DebugOptions=/z__MPLAB_DEBUG=1
+[File009]
+Location=C:\USB_CDC_Device_project\CDC Basic Demo\CDC Basic Demo Firmware\USB_CDC_PICDEM.hex
+Folder=Output
+DeviceName=PIC18F4550
+LanguageToolSuiteID={5B7D72DD-9861-47BD-9F60-2BE967BF8416}
+LanguageToolID={96C98149-AA1B-4CF9-B967-FAE79CAB663C}
+LanguageToolLocation=C:\MCC18\bin\mplink.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)||$(INCDIR)|..\..\C:\USB_CDC_Device_project\CDC Basic Demo\CDC Basic Demo Firmware;..\..\microchip\include;C:\MCC18\h||$(LIBDIR)|C:\MCC18\lib||$(LKRDIR)||
+SOLK=<src>|main.c|usb_descriptors.c|C:\USB_CDC_Device_project\Microchip\USB\usb_device.c|C:\USB_CDC_Device_project\Microchip\USB\CDC Device Driver\usb_function_cdc.c||<obj>||<lib>||<lkr>|rm18f4550 - HID Bootload.lkr||
+SuiteArgsString=
+ToolArgsString=/o"$(BINDIR_)$(TARGETBASE).cof" /M"$(BINDIR_)$(TARGETBASE).map" /W
+TraceCmdString=
+DebugOptions=/z__MPLAB_DEBUG=1
+[File010]
+Location=E:\USB_CDC_Device_project\CDC Basic Demo\CDC Basic Demo Firmware\USB_CDC_PICDEM.cof
+Folder=Output
+DeviceName=PIC18F4550
+LanguageToolSuiteID={5B7D72DD-9861-47BD-9F60-2BE967BF8416}
+LanguageToolID={96C98149-AA1B-4CF9-B967-FAE79CAB663C}
+LanguageToolLocation=C:\MCC18\bin\mplink.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)||$(INCDIR)|..\..\C:\USB_CDC_Device_project\CDC Basic Demo\CDC Basic Demo Firmware;..\..\microchip\include;C:\MCC18\h||$(LIBDIR)|C:\MCC18\lib||$(LKRDIR)||
+SOLK=<src>|main.c|usb_descriptors.c|C:\USB_CDC_Device_project\Microchip\USB\usb_device.c|C:\USB_CDC_Device_project\Microchip\USB\CDC Device Driver\usb_function_cdc.c||<obj>||<lib>||<lkr>|rm18f4550 - HID Bootload.lkr||
+SuiteArgsString=
+ToolArgsString=/o"$(BINDIR_)$(TARGETBASE).cof" /M"$(BINDIR_)$(TARGETBASE).map" /W
+TraceCmdString=
+DebugOptions=/z__MPLAB_DEBUG=1
+[File011]
+Location=E:\USB_CDC_Device_project\CDC Basic Demo\CDC Basic Demo Firmware\USB_CDC_PICDEM.hex
+Folder=Output
+DeviceName=PIC18F4550
+LanguageToolSuiteID={5B7D72DD-9861-47BD-9F60-2BE967BF8416}
+LanguageToolID={96C98149-AA1B-4CF9-B967-FAE79CAB663C}
+LanguageToolLocation=C:\MCC18\bin\mplink.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)||$(INCDIR)|..\..\C:\USB_CDC_Device_project\CDC Basic Demo\CDC Basic Demo Firmware;..\..\microchip\include;C:\MCC18\h||$(LIBDIR)|C:\MCC18\lib||$(LKRDIR)||
+SOLK=<src>|main.c|usb_descriptors.c|C:\USB_CDC_Device_project\Microchip\USB\usb_device.c|C:\USB_CDC_Device_project\Microchip\USB\CDC Device Driver\usb_function_cdc.c||<obj>||<lib>||<lkr>|rm18f4550 - HID Bootload.lkr||
+SuiteArgsString=
+ToolArgsString=/o"$(BINDIR_)$(TARGETBASE).cof" /M"$(BINDIR_)$(TARGETBASE).map" /W
+TraceCmdString=
+DebugOptions=/z__MPLAB_DEBUG=1
+[TOOL_LOC_STAMPS]
+tool_loc{96C98149-AA1B-4CF9-B967-FAE79CAB663C}=C:\MCC18\bin\mplink.exe
+tool_loc{E56A1C86-9D32-4DF6-8C34-FE0388B1B644}=C:\MCC18\bin\mcc18.exe
